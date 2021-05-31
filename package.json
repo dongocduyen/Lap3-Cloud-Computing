@@ -1,13 +1,12 @@
 {
-  "name": "package.json",
+  "name": "lap3-cloud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node add.js",   "_comment1": "node add.js là để liên kết package.json với add.js ",                         
+    "start": "node add.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ngoc duyen",
   "license": "ISC"
 }
-  
